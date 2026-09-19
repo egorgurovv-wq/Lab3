@@ -10,7 +10,11 @@
   6. Конец
 
 БЛОК-СХЕМА:
+
+
 <img width="189" height="524" alt="Снимок экрана — 2026-09-19 в 13 29 07" src="https://github.com/user-attachments/assets/ffb940a7-b09d-4700-8eeb-8f53a970ea22" />
+
+
 
 https://drive.google.com/file/d/1UNWzCtLyPMVwYBq5RkPYB_-tqLodK-Ua/view?usp=sharing
 
